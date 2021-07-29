@@ -1,4 +1,11 @@
 // Fontes
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,500;1,900&display=swap');
+// Config 
+@import "./variaveis.scss";
+@import "./config.scss";
+// Componentes
+@import "./header.scss";
+@import "./nav-produtos.scss";
+@import "./banners-promocionais.scss";
 // Framework
-@import './bootstrap.scss';
+@import "./bootstrap.scss";
