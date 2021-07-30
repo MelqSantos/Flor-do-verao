@@ -214,6 +214,31 @@ footer ul li.ellipsis {
     margin: 7px 0;
   }
 }
+.produtos-compra figure {
+  margin: 0;
+}
+.produtos-compra .produto-conteudo h1 {
+  margin: 0 !important;
+  font-size: 32px;
+}
+.produtos-compra .produto-conteudo p {
+  font-size: 16px;
+}
+.produtos-compra .produto-preco .produtos-stars svg {
+  fill: #FFC107;
+}
+.produtos-compra .produto-preco strong {
+  font-size: 40px;
+}
+.produtos-compra .produto-preco form {
+  font-weight: 100;
+}
+.produtos-compra .produto-preco .produtos-stars svg,
+.produtos-compra .produto-preco strong span,
+.produtos-compra .produto-preco form {
+  font-size: 16px;
+}
+
 /*!
  * Bootstrap v4.5.0 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
